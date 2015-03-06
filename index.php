@@ -1,3 +1,3 @@
 <?php
-print 'GIT';
+print 'GIT TEST';
 ?>
